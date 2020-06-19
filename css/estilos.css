@@ -1,0 +1,34 @@
+h1 {
+    color: red;
+    display: inline-block;
+}
+body{
+    background: rgb(173, 173, 173);
+}
+img{
+    margin: auto;
+    width: 125px;
+    height: 100px;
+    display: block;
+}
+    
+.body{
+    text-align: center;
+    background: rgb(122, 194, 223);
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 15px;
+}
+.agrupar{
+    background: #fffbb9;
+    color:black;
+    width:400px;
+    margin: auto;
+    text-align: left;
+    padding: 15px 25px;
+    border: 2px solid red;
+}
+.p{
+    display: inline;
+}
